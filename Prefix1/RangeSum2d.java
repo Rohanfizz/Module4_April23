@@ -1,5 +1,7 @@
 import java.util.*;
 
+import Prefix2.Solution;
+
 class Pair {
     int row1;
     int row2;
