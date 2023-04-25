@@ -1,4 +1,4 @@
-package Bitmanipulation2;
+// package Bitmanipulation2;
 import java.util.*;
 
 class binaryPlayroom {
@@ -28,9 +28,9 @@ class binaryPlayroom {
     // System.out.println(Integer.MIN_VALUE);
 
     // int n = -77;
-    displayBinary(-2 & (1L*1<<31));
+    // displayBinary(-2 & (1L*1<<31));
     // for(int i = 0;i<32;i++){
-    //     displayBinary(-2);
+        displayBinary(~0);
     //     // n<<=1;
     //     n>>=1;
     // }
